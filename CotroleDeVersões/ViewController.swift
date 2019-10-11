@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 
 // os arquivos passaram para o ramo opção1
 // os arquivos retornaram à versão MASTER
+    // teste de comparação de versões
     
 }
 
